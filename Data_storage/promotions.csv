@@ -1,0 +1,101 @@
+Id,Name,Email,City,Phone,Iphone,Android,Desktop
+14,A. Allan,abigail.allan@example.com,"Yangon, Myanmar",555-8008,True,True,False
+3,A. Bailey,amelia.bailey@example.com,"Guadalajara, Mexico",555-3448,True,False,True
+100,A. Carr,alan.carr@example.com,"Paris, France",555-7569,True,True,True
+96,A. Chapman,alan.chapman@example.com,"Shanghai, China",555-9610,False,True,True
+41,A. Clark,abigail.clark@example.com,"Santiago, Chile",555-4948,False,False,True
+42,A. Duncan,anne.duncan@example.com,"Tokyo, Japan",555-9797,True,True,True
+59,A. Gray,amelia.gray@example.com,"Hong Kong, China",555-3781,False,False,True
+85,A. Hunter,anthony.hunter@example.com,"Kolkata, India",555-5332,True,True,True
+10,A. James,alexander.james@example.com,"Cairo, Egypt",555-6536,True,True,True
+45,A. MacLeod,abigail.macleod@example.com,"Shenyang, China",555-5065,True,False,False
+21,A. Morrison,albert.morrison@example.com,"New York City, United States",555-4909,True,False,False
+11,A. Parr,audrey.parr@example.com,"Istanbul, Turkey",555-6516,True,True,True
+61,A. Sanderson,ava.sanderson@example.com,"Kuala Lumpur, Malaysia",555-2232,False,True,True
+38,A. Walker,alexandra.walker@example.com,"Nagoya, Japan",555-2172,False,False,True
+66,A. Wilson,adam.wilson@example.com,"Nagoya, Japan",555-3416,False,False,True
+72,A. Wright,adrian.wright@example.com,"Hangzhou, China",555-7727,True,True,False
+91,B. Arnold,bella.arnold@example.com,"Alexandria, Egypt",555-6026,False,False,True
+80,B. Buckland,brian.buckland@example.com,"Kinshasa, DR Congo",555-2660,False,True,True
+49,B. Davies,boris.davies@example.com,"Saint Petersburg, Russia",555-6642,False,False,True
+73,B. Miller,blake.miller@example.com,"Dhaka, Bangladesh",555-4646,False,True,True
+39,B. Reid,bella.reid@example.com,"Delhi, India",555-5653,True,False,False
+26,B. Sutherland,blake.sutherland@example.com,"Surat, India",555-1551,False,False,True
+15,C. Abraham,claire.abraham@example.com,"Rio de Janeiro, Brazil",555-1584,True,True,False
+17,C. Avery,carol.avery@example.com,"Ho Chi Minh City, Vietnam",555-3718,True,True,True
+32,C. Dickens,claire.dickens@example.com,"Paris, France",555-1130,False,True,False
+90,C. Hardacre,christian.hardacre@example.com,"Shanghai, China",555-9468,False,False,True
+12,C. Jackson,christian.jackson@example.com,"Washington, United States",555-6080,True,True,False
+20,C. Sanderson,carl.sanderson@example.com,"Chongqing, China",555-4014,False,True,True
+50,C. Watson,colin.watson@example.com,"Houston, United States",555-1755,True,False,False
+64,D. Blake,dylan.blake@example.com,"Kolkata, India",555-2801,False,False,True
+84,D. Burgess,deirdre.burgess@example.com,"Bangkok, Thailand",555-9092,True,True,True
+89,D. Forsyth,david.forsyth@example.com,"Hangzhou, China",555-5562,False,False,True
+87,D. Hudson,donna.hudson@example.com,"Guangzhou, China",555-2202,False,True,False
+75,D. Nolan,dominic.nolan@example.com,"Belo Horizonte, Brazil",555-3029,False,True,False
+40,D. Ogden,dominic.ogden@example.com,"Harbin, China",555-5726,True,False,False
+62,D. Peake,dorothy.peake@example.com,"Lahore, Pakistan",555-8309,False,False,True
+67,D. Ross,diana.ross@example.com,"Miami, United States",555-2305,True,False,False
+97,D. Young,dan.young@example.com,"Saint Petersburg, Russia",555-8461,False,False,True
+60,E. Hughes,emily.hughes@example.com,"Harbin, China",555-1052,True,False,True
+83,E. North,edward.north@example.com,"Guadalajara, Mexico",555-5349,True,False,True
+48,E. Ross,elizabeth.ross@example.com,"Kolkata, India",555-5323,False,False,True
+47,F. Newman,fiona.newman@example.com,"Qingdao, China",555-9378,False,True,False
+33,F. Simpson,faith.simpson@example.com,"Kinshasa, DR Congo",555-1643,True,True,False
+82,G. Abraham,gordon.abraham@example.com,"Ahmedabad, India",555-8131,False,True,True
+52,G. Dickens,gavin.dickens@example.com,"Jakarta, Indonesia",555-5049,False,True,False
+37,G. Sharp,gavin.sharp@example.com,"Dallas, United States",555-1893,False,True,False
+58,G. Wright,gabrielle.wright@example.com,"Hangzhou, China",555-3128,True,False,True
+74,J. Abraham,james.abraham@example.com,"Hong Kong, China",555-1534,True,False,False
+68,J. Blake,joan.blake@example.com,"Shenzhen, China",555-8661,True,True,False
+44,J. Bower,jacob.bower@example.com,"Dhaka, Bangladesh",555-5398,True,True,True
+28,J. Coleman,julia.coleman@example.com,"London, United Kingdom",555-4073,False,False,True
+22,J. Lambert,jake.lambert@example.com,"Bangalore, India",555-9218,False,True,False
+63,J. MacLeod,jennifer.macleod@example.com,"Lima, Peru",555-1124,False,True,False
+16,J. May,jack.may@example.com,"Alexandria, Egypt",555-1590,True,True,True
+78,J. Morrison,jake.morrison@example.com,"Chennai, India",555-6628,False,True,True
+9,J. Murray,julia.murray@example.com,"Fukuoka, Japan",555-3555,False,True,True
+23,J. North,jason.north@example.com,"Manila, Philippines",555-6434,False,True,False
+69,J. Rees,jonathan.rees@example.com,"Qingdao, China",555-5621,True,True,True
+95,J. Scott,john.scott@example.com,"Guadalajara, Mexico",555-8564,True,False,False
+46,J. Simpson,joseph.simpson@example.com,"Madrid, Spain",555-6638,False,False,True
+57,J. Smith,jennifer.smith@example.com,"Dongguan, China",555-5688,False,True,False
+4,J. Springer,jane.springer@example.com,"Khartoum, Sudan",555-9575,False,True,True
+65,K. Butler,katherine.butler@example.com,"Shanghai, China",555-2311,True,False,True
+79,K. Harris,keith.harris@example.com,"Barcelona, Spain",555-1220,True,True,True
+36,K. Thomson,keith.thomson@example.com,"Kolkata, India",555-6813,True,True,True
+24,L. Burgess,lily.burgess@example.com,"Dhaka, Bangladesh",555-6484,True,True,True
+8,L. Piper,leah.piper@example.com,"Harbin, China",555-8366,True,False,False
+92,M. Clark,mary.clark@example.com,"Seoul, South Korea",555-4626,False,True,False
+51,M. Howard,michael.howard@example.com,"Chicago, United States",555-6975,True,False,False
+6,M. McGrath,michael.mcgrath@example.com,"Rio de Janeiro, Brazil",555-8448,True,False,False
+94,M. Payne,michael.payne@example.com,"Houston, United States",555-2600,False,True,True
+7,M. Springer,maria.springer@example.com,"Luanda, Angola",555-6983,False,False,True
+25,M. Taylor,maria.taylor@example.com,"Wuhan, China",555-1480,False,False,True
+56,M. Wilkins,megan.wilkins@example.com,"Hyderabad, India",555-8833,True,False,False
+31,N. Dickens,nicholas.dickens@example.com,"Chicago, United States",555-5595,True,False,True
+2,N. Pullman,natalie.pullman@example.com,"Kinshasa, DR Congo",555-7449,True,True,True
+29,O. Ball,olivia.ball@example.com,"Barcelona, Spain",555-6125,True,False,True
+77,O. Howard,owen.howard@example.com,"Los Angeles, United States",555-5006,True,True,False
+43,O. Morgan,owen.morgan@example.com,"Shenzhen, China",555-7554,False,True,True
+98,P. Davies,phil.davies@example.com,"Qingdao, China",555-8510,False,True,True
+81,P. Terry,paul.terry@example.com,"Paris, France",555-4652,True,False,False
+93,P. Tucker,pippa.tucker@example.com,"Chicago, United States",555-1277,False,True,True
+99,P. Wilson,pippa.wilson@example.com,"Houston, United States",555-8292,True,False,True
+76,R. MacDonald,rachel.macdonald@example.com,"Tianjin, China",555-3354,True,True,False
+19,R. Underwood,ryan.underwood@example.com,"Paris, France",555-7150,True,False,False
+86,S. Brown,stephen.brown@example.com,"Chongqing, China",555-7889,False,True,False
+30,S. Carr,samantha.carr@example.com,"Delhi, India",555-2163,True,True,True
+13,S. Duncan,simon.duncan@example.com,"Qingdao, China",555-3495,False,True,True
+27,S. Hodges,sean.hodges@example.com,"Mexico City, Mexico",555-4187,False,True,False
+18,S. Hunter,steven.hunter@example.com,"Buenos Aires, Argentina",555-7607,False,False,True
+5,S. Jackson,simon.jackson@example.com,"Mumbai, India",555-4622,False,True,False
+53,S. Mills,stephanie.mills@example.com,"Pune, India",555-2170,False,True,False
+55,S. Scott,sam.scott@example.com,"Wuhan, China",555-1561,True,True,True
+88,S. Slater,stewart.slater@example.com,"Guadalajara, Mexico",555-8235,True,False,True
+70,S. Taylor,sean.taylor@example.com,"Washington, United States",555-7998,True,False,True
+34,S. Wright,sam.wright@example.com,"Karachi, Pakistan",555-6633,False,True,False
+1,T. Arnold,tim.arnold@example.com,"Dallas, United States",555-4147,True,True,True
+54,T. Lyman,tracey.lyman@example.com,"Guadalajara, Mexico",555-6749,True,False,False
+35,W. Mills,william.mills@example.com,"Chongqing, China",555-5512,False,True,True
+71,W. Ogden,warren.ogden@example.com,"Moscow, Russia",555-8588,False,False,True
